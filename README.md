@@ -1,4 +1,4 @@
-### <h1 align="center"><b>Hi, I'm [Tirso!](https://www.linkedin.com/in/tirso-morat%C3%B3-miguel/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></b></h1>
+### <h1 align="center"><b>Hi, I'm [Tirso!](https://www.linkedin.com/in/tirso-morat%C3%B3-miguel/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"><img src="https://static.wikia.nocookie.net/fighunter/images/2/28/Rubber_Duck.gif" width="35px"></b></h1>
 
 ## Who am I?
  ```java
